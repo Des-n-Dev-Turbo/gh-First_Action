@@ -1,2 +1,2 @@
-# gh-First_Action
-GitHub Actions Course
+# GitHub Actions Course
+First Actions workflow via Github Actions
