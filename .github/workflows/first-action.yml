@@ -1,6 +1,7 @@
+#This is an example on how to build basic github actions
 name: First Workflow
 on: workflow_dispatch
-jobs: 
+jobs:
   first-job:
     runs-on: ubuntu-latest
     steps:
