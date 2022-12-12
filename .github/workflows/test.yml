@@ -29,3 +29,5 @@ jobs:
         run: npm run build
       - name: Deploy
         run: echo "Deployed"
+      - name: Show Dist Folder
+        run: tree ./dist
